@@ -1,0 +1,24 @@
+C:\Users\Fujitsu\source\repos\Ders3\Ders3\obj\Debug\Ders3.csprojAssemblyReference.cache
+C:\Users\Fujitsu\source\repos\Ders3\Ders3\obj\Debug\Ders3.Form1.resources
+C:\Users\Fujitsu\source\repos\Ders3\Ders3\obj\Debug\Ders3.Form2.resources
+C:\Users\Fujitsu\source\repos\Ders3\Ders3\obj\Debug\Ders3.Properties.Resources.resources
+C:\Users\Fujitsu\source\repos\Ders3\Ders3\obj\Debug\Ders3.csproj.GenerateResource.cache
+C:\Users\Fujitsu\source\repos\Ders3\Ders3\obj\Debug\Ders3.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\source\repos\Ders3\Ders3\bin\Debug\Ders3.exe.config
+C:\Users\Fujitsu\source\repos\Ders3\Ders3\bin\Debug\Ders3.exe
+C:\Users\Fujitsu\source\repos\Ders3\Ders3\bin\Debug\Ders3.pdb
+C:\Users\Fujitsu\source\repos\Ders3\Ders3\obj\Debug\Ders3.exe
+C:\Users\Fujitsu\source\repos\Ders3\Ders3\obj\Debug\Ders3.pdb
+C:\Users\Fujitsu\source\repos\Ders3\Ders3\obj\Debug\Ders3.Form3.resources
+C:\Users\Fujitsu\Desktop\Ders\SALI-GÖRSEL PORGLAMA\Ders3\Ders3\bin\Debug\Ders3.exe.config
+C:\Users\Fujitsu\Desktop\Ders\SALI-GÖRSEL PORGLAMA\Ders3\Ders3\bin\Debug\Ders3.exe
+C:\Users\Fujitsu\Desktop\Ders\SALI-GÖRSEL PORGLAMA\Ders3\Ders3\bin\Debug\Ders3.pdb
+C:\Users\Fujitsu\Desktop\Ders\SALI-GÖRSEL PORGLAMA\Ders3\Ders3\obj\Debug\Ders3.csprojAssemblyReference.cache
+C:\Users\Fujitsu\Desktop\Ders\SALI-GÖRSEL PORGLAMA\Ders3\Ders3\obj\Debug\Ders3.Form1.resources
+C:\Users\Fujitsu\Desktop\Ders\SALI-GÖRSEL PORGLAMA\Ders3\Ders3\obj\Debug\Ders3.Form2.resources
+C:\Users\Fujitsu\Desktop\Ders\SALI-GÖRSEL PORGLAMA\Ders3\Ders3\obj\Debug\Ders3.Form3.resources
+C:\Users\Fujitsu\Desktop\Ders\SALI-GÖRSEL PORGLAMA\Ders3\Ders3\obj\Debug\Ders3.Properties.Resources.resources
+C:\Users\Fujitsu\Desktop\Ders\SALI-GÖRSEL PORGLAMA\Ders3\Ders3\obj\Debug\Ders3.csproj.GenerateResource.cache
+C:\Users\Fujitsu\Desktop\Ders\SALI-GÖRSEL PORGLAMA\Ders3\Ders3\obj\Debug\Ders3.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\Desktop\Ders\SALI-GÖRSEL PORGLAMA\Ders3\Ders3\obj\Debug\Ders3.exe
+C:\Users\Fujitsu\Desktop\Ders\SALI-GÖRSEL PORGLAMA\Ders3\Ders3\obj\Debug\Ders3.pdb
